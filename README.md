@@ -7,6 +7,9 @@ and while you're at it, you can learn some multithreading in java too (if u give
 here's how to run it:
 
 1-have linux (bc I didn't want to use maven or any other tools for a fun program)
+
 2-chmod +x *.sh
+
 3-./compile.sh && ./run.sh
+
 4-hit CTRL+C to end the program
