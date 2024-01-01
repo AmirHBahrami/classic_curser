@@ -1,8 +1,10 @@
 Here's a fun program I wrote out of boredom:
+
 get random curses that folks used back in 1800's!
+
 and while you're at it, you can learn some multithreading in java too (if u give a $hit).
 
-and btw here's how to run it:
+here's how to run it:
 
 1-have linux (bc I didn't want to use maven or any other tools for a fun program)
 2-chmod +x *.sh
